@@ -1,5 +1,3 @@
-Criando um ebook utilizando IA
-
 -------
 
 
