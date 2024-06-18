@@ -12,7 +12,7 @@
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler o ebook</a>
+<a href="[https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf](https://github.com/raraujor/bootcamp-santander-2024-prompts-recipe-to-create-a-ebook/blob/main/assets/Ebook-Inova%C3%A7%C3%A3o%20Educacional%20com%20IA-Utilizando%20o%20ChatGPT%20na%20Educa%C3%A7%C3%A3o.pdf)" title="View PDF now"> 📕Clique aqui para ler o ebook</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
